@@ -18,5 +18,6 @@ It uses Google PalM as the LLM model, and langchain framework to generate the na
 # Execution Steps:
   - Paste your Google PaLM API key in secret_key.py file
   - Open Terminal in IDE and execute below command
+    
         streamlit run main.py
     
