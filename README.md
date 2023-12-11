@@ -20,4 +20,8 @@ It uses Google PalM as the LLM model, and langchain framework to generate the na
   - Open Terminal in IDE and execute below command
     
         streamlit run main.py
-    
+
+# Snapshots
+![image](https://github.com/Vivek-data-scientist/Restaurant_Name_Generator/assets/103434910/1e729a70-7f92-485d-a901-4019e2a80d6e)
+![image](https://github.com/Vivek-data-scientist/Restaurant_Name_Generator/assets/103434910/404f7473-d58c-40c3-861c-49e984c2c246)
+
